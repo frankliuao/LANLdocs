@@ -3,3 +3,6 @@ I realized that there isn't a place where you can download the manuals for Poiss
 
 #
 **All the copyright and authorship belong to LANL. This is only for your convenience to find the manuals.**
+
+# Keywords for search engines
+Superfish manual, poisson superfish, parmela lanl, parmela manual, lanl manual
