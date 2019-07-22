@@ -6,3 +6,6 @@ I realized that there isn't a place where you can download the manuals for Poiss
 
 # Keywords for search engines
 Superfish manual, poisson superfish, parmela lanl, parmela manual, lanl manual
+
+## Tips
+If you need to get a quick start on Autofish, and find all the keywords for the input file, use the **SFCODES.DOC[PDF]**.
